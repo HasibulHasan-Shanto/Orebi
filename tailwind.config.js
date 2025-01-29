@@ -14,6 +14,10 @@ export default {
         textColor: '#262626',
         hoverColor: '#FFFFFF',
         footerColor: '#F5F5F3',
+        secondColor: '#FF8686',
+        thirdColor: '#7ED321',
+        fourColor: '#B6B6B6',
+        fiveColor: '#15CBA5',
       },
       backgroundImage: {
         Banner: "url('/src/assets/Group 10.png')",
